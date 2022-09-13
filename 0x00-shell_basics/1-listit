@@ -1,6 +1,2 @@
-#!/bin/bash
-<<<<<<< HEAD
-ls
-=======
-#!/1-listit
->>>>>>> 426a5000515f9c98942c1dbbe8e3576738258bc4
+#!/bin/bash \
+pwd
